@@ -9,9 +9,6 @@ import {
   Train,
   Bus,
   Plane,
-  ShieldCheck,
-  Instagram,
-  Mail,
 } from "lucide-react";
 import { BUSINESS_INFO } from "@/data/retreat-data";
 import EnquiryForm from "@/components/forms/EnquiryForm";
